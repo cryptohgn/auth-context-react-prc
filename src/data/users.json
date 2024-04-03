@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "email": "hansgn@gmail.com",
+    "password": "123",
+    "name": "Hanseldorf",
+    "image": "../../src/images/hans-img-profile-di-1.webp",
+    "gener": "male",
+    "location": "Valencia, Spain"
+  },{
+    "id": 2,
+    "email": "pepa@upgrade.com",
+    "password": "1234",
+    "name": "PepaSart",
+    "image": "admin",
+    "gener": "female",
+    "location": "Pego, Spain"
+  }
+]
